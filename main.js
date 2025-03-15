@@ -1,4 +1,3 @@
-console.log("hello from console main js")
 
 function getCategories() {
     //fetching categories from api
